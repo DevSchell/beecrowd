@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\devsc\\Documents\\GitHub\\csharpURI\\Esfera\\Esfera.csproj",
+      "projectUniqueName": "C:\\Users\\devsc\\Documents\\GitHub\\csharpURI\\Iniciante\\Esfera\\Esfera.csproj",
       "projectName": "Esfera",
-      "projectPath": "C:\\Users\\devsc\\Documents\\GitHub\\csharpURI\\Esfera\\Esfera.csproj",
+      "projectPath": "C:\\Users\\devsc\\Documents\\GitHub\\csharpURI\\Iniciante\\Esfera\\Esfera.csproj",
       "packagesPath": "C:\\Users\\devsc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\devsc\\Documents\\GitHub\\csharpURI\\Esfera\\obj\\",
+      "outputPath": "C:\\Users\\devsc\\Documents\\GitHub\\csharpURI\\Iniciante\\Esfera\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\devsc\\AppData\\Roaming\\NuGet\\NuGet.Config",

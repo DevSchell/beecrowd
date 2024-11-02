@@ -1,0 +1,14 @@
+C:\Users\devsc\Documents\GitHub\csharpURI\Iniciante\Consumo\bin\Debug\net8.0\Consumo.exe
+C:\Users\devsc\Documents\GitHub\csharpURI\Iniciante\Consumo\bin\Debug\net8.0\Consumo.deps.json
+C:\Users\devsc\Documents\GitHub\csharpURI\Iniciante\Consumo\bin\Debug\net8.0\Consumo.runtimeconfig.json
+C:\Users\devsc\Documents\GitHub\csharpURI\Iniciante\Consumo\bin\Debug\net8.0\Consumo.dll
+C:\Users\devsc\Documents\GitHub\csharpURI\Iniciante\Consumo\bin\Debug\net8.0\Consumo.pdb
+C:\Users\devsc\Documents\GitHub\csharpURI\Iniciante\Consumo\obj\Debug\net8.0\Consumo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\devsc\Documents\GitHub\csharpURI\Iniciante\Consumo\obj\Debug\net8.0\Consumo.AssemblyInfoInputs.cache
+C:\Users\devsc\Documents\GitHub\csharpURI\Iniciante\Consumo\obj\Debug\net8.0\Consumo.AssemblyInfo.cs
+C:\Users\devsc\Documents\GitHub\csharpURI\Iniciante\Consumo\obj\Debug\net8.0\Consumo.csproj.CoreCompileInputs.cache
+C:\Users\devsc\Documents\GitHub\csharpURI\Iniciante\Consumo\obj\Debug\net8.0\Consumo.dll
+C:\Users\devsc\Documents\GitHub\csharpURI\Iniciante\Consumo\obj\Debug\net8.0\refint\Consumo.dll
+C:\Users\devsc\Documents\GitHub\csharpURI\Iniciante\Consumo\obj\Debug\net8.0\Consumo.pdb
+C:\Users\devsc\Documents\GitHub\csharpURI\Iniciante\Consumo\obj\Debug\net8.0\Consumo.genruntimeconfig.cache
+C:\Users\devsc\Documents\GitHub\csharpURI\Iniciante\Consumo\obj\Debug\net8.0\ref\Consumo.dll

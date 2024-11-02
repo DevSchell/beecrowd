@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CalculoSimples")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5ed117fc0186ce13200664c23f330e7ca749a783")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+15d7ef47a32c97b85dd7ab89341a83c471b8081a")]
 [assembly: System.Reflection.AssemblyProductAttribute("CalculoSimples")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CalculoSimples")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
