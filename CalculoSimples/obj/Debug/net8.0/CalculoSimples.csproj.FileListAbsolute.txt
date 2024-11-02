@@ -1,0 +1,14 @@
+C:\Users\devsc\Documents\GitHub\csharpURI\CalculoSimples\bin\Debug\net8.0\CalculoSimples.exe
+C:\Users\devsc\Documents\GitHub\csharpURI\CalculoSimples\bin\Debug\net8.0\CalculoSimples.deps.json
+C:\Users\devsc\Documents\GitHub\csharpURI\CalculoSimples\bin\Debug\net8.0\CalculoSimples.runtimeconfig.json
+C:\Users\devsc\Documents\GitHub\csharpURI\CalculoSimples\bin\Debug\net8.0\CalculoSimples.dll
+C:\Users\devsc\Documents\GitHub\csharpURI\CalculoSimples\bin\Debug\net8.0\CalculoSimples.pdb
+C:\Users\devsc\Documents\GitHub\csharpURI\CalculoSimples\obj\Debug\net8.0\CalculoSimples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\devsc\Documents\GitHub\csharpURI\CalculoSimples\obj\Debug\net8.0\CalculoSimples.AssemblyInfoInputs.cache
+C:\Users\devsc\Documents\GitHub\csharpURI\CalculoSimples\obj\Debug\net8.0\CalculoSimples.AssemblyInfo.cs
+C:\Users\devsc\Documents\GitHub\csharpURI\CalculoSimples\obj\Debug\net8.0\CalculoSimples.csproj.CoreCompileInputs.cache
+C:\Users\devsc\Documents\GitHub\csharpURI\CalculoSimples\obj\Debug\net8.0\CalculoSimples.dll
+C:\Users\devsc\Documents\GitHub\csharpURI\CalculoSimples\obj\Debug\net8.0\refint\CalculoSimples.dll
+C:\Users\devsc\Documents\GitHub\csharpURI\CalculoSimples\obj\Debug\net8.0\CalculoSimples.pdb
+C:\Users\devsc\Documents\GitHub\csharpURI\CalculoSimples\obj\Debug\net8.0\CalculoSimples.genruntimeconfig.cache
+C:\Users\devsc\Documents\GitHub\csharpURI\CalculoSimples\obj\Debug\net8.0\ref\CalculoSimples.dll

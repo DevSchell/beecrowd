@@ -1,0 +1,14 @@
+C:\Users\devsc\Documents\GitHub\csharpURI\Media2\bin\Debug\net8.0\Media2.exe
+C:\Users\devsc\Documents\GitHub\csharpURI\Media2\bin\Debug\net8.0\Media2.deps.json
+C:\Users\devsc\Documents\GitHub\csharpURI\Media2\bin\Debug\net8.0\Media2.runtimeconfig.json
+C:\Users\devsc\Documents\GitHub\csharpURI\Media2\bin\Debug\net8.0\Media2.dll
+C:\Users\devsc\Documents\GitHub\csharpURI\Media2\bin\Debug\net8.0\Media2.pdb
+C:\Users\devsc\Documents\GitHub\csharpURI\Media2\obj\Debug\net8.0\Media2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\devsc\Documents\GitHub\csharpURI\Media2\obj\Debug\net8.0\Media2.AssemblyInfoInputs.cache
+C:\Users\devsc\Documents\GitHub\csharpURI\Media2\obj\Debug\net8.0\Media2.AssemblyInfo.cs
+C:\Users\devsc\Documents\GitHub\csharpURI\Media2\obj\Debug\net8.0\Media2.csproj.CoreCompileInputs.cache
+C:\Users\devsc\Documents\GitHub\csharpURI\Media2\obj\Debug\net8.0\Media2.dll
+C:\Users\devsc\Documents\GitHub\csharpURI\Media2\obj\Debug\net8.0\refint\Media2.dll
+C:\Users\devsc\Documents\GitHub\csharpURI\Media2\obj\Debug\net8.0\Media2.pdb
+C:\Users\devsc\Documents\GitHub\csharpURI\Media2\obj\Debug\net8.0\Media2.genruntimeconfig.cache
+C:\Users\devsc\Documents\GitHub\csharpURI\Media2\obj\Debug\net8.0\ref\Media2.dll
