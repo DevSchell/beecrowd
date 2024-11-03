@@ -1,0 +1,14 @@
+C:\Users\devsc\Documents\GitHub\csharpURI\Iniciante\GastoDeCombustivel\bin\Debug\net8.0\GastoDeCombustivel.exe
+C:\Users\devsc\Documents\GitHub\csharpURI\Iniciante\GastoDeCombustivel\bin\Debug\net8.0\GastoDeCombustivel.deps.json
+C:\Users\devsc\Documents\GitHub\csharpURI\Iniciante\GastoDeCombustivel\bin\Debug\net8.0\GastoDeCombustivel.runtimeconfig.json
+C:\Users\devsc\Documents\GitHub\csharpURI\Iniciante\GastoDeCombustivel\bin\Debug\net8.0\GastoDeCombustivel.dll
+C:\Users\devsc\Documents\GitHub\csharpURI\Iniciante\GastoDeCombustivel\bin\Debug\net8.0\GastoDeCombustivel.pdb
+C:\Users\devsc\Documents\GitHub\csharpURI\Iniciante\GastoDeCombustivel\obj\Debug\net8.0\GastoDeCombustivel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\devsc\Documents\GitHub\csharpURI\Iniciante\GastoDeCombustivel\obj\Debug\net8.0\GastoDeCombustivel.AssemblyInfoInputs.cache
+C:\Users\devsc\Documents\GitHub\csharpURI\Iniciante\GastoDeCombustivel\obj\Debug\net8.0\GastoDeCombustivel.AssemblyInfo.cs
+C:\Users\devsc\Documents\GitHub\csharpURI\Iniciante\GastoDeCombustivel\obj\Debug\net8.0\GastoDeCombustivel.csproj.CoreCompileInputs.cache
+C:\Users\devsc\Documents\GitHub\csharpURI\Iniciante\GastoDeCombustivel\obj\Debug\net8.0\GastoDeCombustivel.dll
+C:\Users\devsc\Documents\GitHub\csharpURI\Iniciante\GastoDeCombustivel\obj\Debug\net8.0\refint\GastoDeCombustivel.dll
+C:\Users\devsc\Documents\GitHub\csharpURI\Iniciante\GastoDeCombustivel\obj\Debug\net8.0\GastoDeCombustivel.pdb
+C:\Users\devsc\Documents\GitHub\csharpURI\Iniciante\GastoDeCombustivel\obj\Debug\net8.0\GastoDeCombustivel.genruntimeconfig.cache
+C:\Users\devsc\Documents\GitHub\csharpURI\Iniciante\GastoDeCombustivel\obj\Debug\net8.0\ref\GastoDeCombustivel.dll
