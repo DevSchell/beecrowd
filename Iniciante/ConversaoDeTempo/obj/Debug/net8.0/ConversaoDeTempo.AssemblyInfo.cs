@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConversaoDeTempo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c837b96c511b72c8c5fc70e92eb7085a0f116e0d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+66309cf143f0a954becfa9ac69b8c41eb7f55bf4")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConversaoDeTempo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConversaoDeTempo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

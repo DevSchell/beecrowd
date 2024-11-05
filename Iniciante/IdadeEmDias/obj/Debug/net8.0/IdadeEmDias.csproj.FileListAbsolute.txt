@@ -1,0 +1,14 @@
+C:\Users\devsc\Documents\GitHub\csharpURI\Iniciante\IdadeEmDias\bin\Debug\net8.0\IdadeEmDias.exe
+C:\Users\devsc\Documents\GitHub\csharpURI\Iniciante\IdadeEmDias\bin\Debug\net8.0\IdadeEmDias.deps.json
+C:\Users\devsc\Documents\GitHub\csharpURI\Iniciante\IdadeEmDias\bin\Debug\net8.0\IdadeEmDias.runtimeconfig.json
+C:\Users\devsc\Documents\GitHub\csharpURI\Iniciante\IdadeEmDias\bin\Debug\net8.0\IdadeEmDias.dll
+C:\Users\devsc\Documents\GitHub\csharpURI\Iniciante\IdadeEmDias\bin\Debug\net8.0\IdadeEmDias.pdb
+C:\Users\devsc\Documents\GitHub\csharpURI\Iniciante\IdadeEmDias\obj\Debug\net8.0\IdadeEmDias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\devsc\Documents\GitHub\csharpURI\Iniciante\IdadeEmDias\obj\Debug\net8.0\IdadeEmDias.AssemblyInfoInputs.cache
+C:\Users\devsc\Documents\GitHub\csharpURI\Iniciante\IdadeEmDias\obj\Debug\net8.0\IdadeEmDias.AssemblyInfo.cs
+C:\Users\devsc\Documents\GitHub\csharpURI\Iniciante\IdadeEmDias\obj\Debug\net8.0\IdadeEmDias.csproj.CoreCompileInputs.cache
+C:\Users\devsc\Documents\GitHub\csharpURI\Iniciante\IdadeEmDias\obj\Debug\net8.0\IdadeEmDias.dll
+C:\Users\devsc\Documents\GitHub\csharpURI\Iniciante\IdadeEmDias\obj\Debug\net8.0\refint\IdadeEmDias.dll
+C:\Users\devsc\Documents\GitHub\csharpURI\Iniciante\IdadeEmDias\obj\Debug\net8.0\IdadeEmDias.pdb
+C:\Users\devsc\Documents\GitHub\csharpURI\Iniciante\IdadeEmDias\obj\Debug\net8.0\IdadeEmDias.genruntimeconfig.cache
+C:\Users\devsc\Documents\GitHub\csharpURI\Iniciante\IdadeEmDias\obj\Debug\net8.0\ref\IdadeEmDias.dll

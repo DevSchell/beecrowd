@@ -1,0 +1,14 @@
+C:\Users\devsc\Documents\GitHub\csharpURI\Iniciante\ConversaoDeTempo\bin\Debug\net8.0\ConversaoDeTempo.exe
+C:\Users\devsc\Documents\GitHub\csharpURI\Iniciante\ConversaoDeTempo\bin\Debug\net8.0\ConversaoDeTempo.deps.json
+C:\Users\devsc\Documents\GitHub\csharpURI\Iniciante\ConversaoDeTempo\bin\Debug\net8.0\ConversaoDeTempo.runtimeconfig.json
+C:\Users\devsc\Documents\GitHub\csharpURI\Iniciante\ConversaoDeTempo\bin\Debug\net8.0\ConversaoDeTempo.dll
+C:\Users\devsc\Documents\GitHub\csharpURI\Iniciante\ConversaoDeTempo\bin\Debug\net8.0\ConversaoDeTempo.pdb
+C:\Users\devsc\Documents\GitHub\csharpURI\Iniciante\ConversaoDeTempo\obj\Debug\net8.0\ConversaoDeTempo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\devsc\Documents\GitHub\csharpURI\Iniciante\ConversaoDeTempo\obj\Debug\net8.0\ConversaoDeTempo.AssemblyInfoInputs.cache
+C:\Users\devsc\Documents\GitHub\csharpURI\Iniciante\ConversaoDeTempo\obj\Debug\net8.0\ConversaoDeTempo.AssemblyInfo.cs
+C:\Users\devsc\Documents\GitHub\csharpURI\Iniciante\ConversaoDeTempo\obj\Debug\net8.0\ConversaoDeTempo.csproj.CoreCompileInputs.cache
+C:\Users\devsc\Documents\GitHub\csharpURI\Iniciante\ConversaoDeTempo\obj\Debug\net8.0\ConversaoDeTempo.dll
+C:\Users\devsc\Documents\GitHub\csharpURI\Iniciante\ConversaoDeTempo\obj\Debug\net8.0\refint\ConversaoDeTempo.dll
+C:\Users\devsc\Documents\GitHub\csharpURI\Iniciante\ConversaoDeTempo\obj\Debug\net8.0\ConversaoDeTempo.pdb
+C:\Users\devsc\Documents\GitHub\csharpURI\Iniciante\ConversaoDeTempo\obj\Debug\net8.0\ConversaoDeTempo.genruntimeconfig.cache
+C:\Users\devsc\Documents\GitHub\csharpURI\Iniciante\ConversaoDeTempo\obj\Debug\net8.0\ref\ConversaoDeTempo.dll
